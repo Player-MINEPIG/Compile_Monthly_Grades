@@ -311,6 +311,8 @@ if __name__ == "__main__":
             "defaultOutputPath": "程序目录",
             "keyWords": ["得分", "选择或输入合并用的关键字"],
             "noneList": ["", "未上传", "nan", "NAN", "NaN"],
+            "max": True,
+            "mean": True,
         }
         try:
             # 创建一个json文件用于存储用户设置
