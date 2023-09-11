@@ -49,7 +49,7 @@
 
 页面如图所示
 
-![image-20230911200336343](/Users/pmp/Library/Application Support/typora-user-images/image-20230911200336343.png)
+<img width="500" alt="image-20230911200336343" src="https://github.com/Player-MINEPIG/Compile_Monthly_Grades/assets/69493765/d3b52962-dfec-47d9-b64c-9ddf1f7f4e14">
 
 包含
 
@@ -63,7 +63,8 @@
 
   - 形如下图
 
-    ![image-20230911202423431](/Users/pmp/Library/Application Support/typora-user-images/image-20230911202423431.png)
+    <img width="499" alt="image-20230911202423431" src="https://github.com/Player-MINEPIG/Compile_Monthly_Grades/assets/69493765/f74bad0d-ec84-4fea-96de-1ed1c5b75514">
+
 
     **必须包含**
 
@@ -102,7 +103,8 @@
 
   - 如下图所示
 
-    ![image-20230911210711344](/Users/pmp/Library/Application Support/typora-user-images/image-20230911210711344.png)
+    <img width="423" alt="image-20230911210711344" src="https://github.com/Player-MINEPIG/Compile_Monthly_Grades/assets/69493765/81dbc36e-1ac9-40e5-a1d4-117ba79e3dfe">
+
 
     **必须包含**
 
