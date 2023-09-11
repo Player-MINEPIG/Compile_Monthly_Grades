@@ -31,7 +31,7 @@
 
      - 在github上下载zip, 并解压
 
-     - 或`git clone`
+     - 或`git clone https://github.com/Player-MINEPIG/Compile_Monthly_Grades.git`
 
   2. 安装依赖项
 
