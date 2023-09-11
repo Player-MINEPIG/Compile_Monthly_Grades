@@ -1,0 +1,21 @@
+{
+    "defaultTemplatePath": "程序目录下的「姓名模版.xlsx」",
+    "defaultInputPath": "程序目录下的「成绩」文件夹",
+    "defaultOutputPath": "程序目录",
+    "keyWords": [
+        "得分",
+        "选择或输入合并用的关键字"
+    ],
+    "noneList": [
+        "",
+        "未上传",
+        "nan",
+        "NAN",
+        "NaN",
+        "Unnamed: 0",
+        "Unnamed",
+        "-"
+    ],
+    "max": true,
+    "mean": true
+}
